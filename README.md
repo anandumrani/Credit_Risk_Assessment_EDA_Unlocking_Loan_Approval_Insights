@@ -22,3 +22,13 @@
 - Understand key driver variables for loan default.
 - Enhance portfolio management and risk assessment.
 - Research on risk analytics for deeper domain understanding recommended.
+
+## Recommendations as Outcome of Project:
+- Gender: Females are less likely to default and generally men are high risk, especially who get credit between 300K to 600K
+- Family: Applicants with few children tend to pay back loans
+- Age: Applicants above age of 50 are safest while age group of 20-40 is high risk
+- Credit Amount: People (both male and females) who get loan for 300-600k tend to default more than others and hence having higher interest specifically for this credit range would be ideal.
+- Loan Purpose: Loan taken for repairs, urgent need and others are having highest defaulters
+- Contract Status: 
+	- Majority of the prev cancelled applicants have repayed the loan.
+	- Lot of people are cancelling or leaving their offers unused. This needs further investigation
